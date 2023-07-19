@@ -1,8 +1,8 @@
 <p align="center"><a href="https://github.com/mind1a"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
  
-<!-- <p align="center">
+<p align="center">
   <img src="./assets/coding.gif">
-</p> -->
+</p>
 
 <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm M Arabuli <img src="./assets/acid-cat.gif" width="50"></h1>
 
@@ -16,7 +16,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<h1 align="center"> My Github Stats <img src="./assets/1kLR.gif" width="50"></h1>
+<!-- <h1 align="center"> My Github Stats <img src="./assets/1kLR.gif" width="50"></h1> -->
 
 <p align="center">
     <a href="https://github.com/mind1a/github-readme-streak-stats">
