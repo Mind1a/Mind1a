@@ -22,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindia&theme=dark&show_icons=true)
 </p>
 
-  <br/>
+  <!-- <br/>
     <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TridibD004&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridibD004&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br/> -->
