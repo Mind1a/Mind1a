@@ -15,3 +15,16 @@
 </a>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## 📊 My Github Stats
+
+<p align="center">
+    <a href="https://github.com/TridibD004/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tridib Dalui's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TridibD004&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+  <br/>
+    <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TridibD004&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridibD004&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
