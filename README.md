@@ -16,7 +16,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<h2 align="center"><img src="./assets/1kLR.gif" width="25px" alt="cat">My Github Stats</h2>
+<h2 align="center"><img src="./assets/1kLR.gif" alt="cat">My Github Stats</h2>
 
 <p align="center">
     <a href="https://github.com/mind1a/github-readme-streak-stats">
