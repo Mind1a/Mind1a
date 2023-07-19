@@ -19,9 +19,7 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/TridibD004/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tridib Dalui's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TridibD004&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindia&theme=dark&show_icons=true)
 </p>
 
   <br/>
