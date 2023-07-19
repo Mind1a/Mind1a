@@ -20,6 +20,6 @@
 
 <p align="center">
     <a href="https://github.com/mind1a/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mindia Arabuli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mind1a&midnight-purple"/> 
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mindia Arabuli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mind1a&theme=midnight-purple&hide_border=true&stroke=0000&"/>
     </a>
 </p>
