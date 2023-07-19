@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/mind1a"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
-
+ 
 <!-- <p align="center">
   <img src="./assets/coding.gif">
 </p> -->
@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://github.com/mind1a/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mindia Arabuli's streak" src="https://github-readme-streak-stats.herokuapp.com?user=midnight-purple&theme=midnight-purple&dates=2F81F7&excludeDaysLabel=2F81F7&sideNums=2F81F7&sideLabels=2F81F7&currStreakLabel=2F81F7&currStreakNum=2F81F7&fire=2F81F7&ring=2F81F7&stroke=2F81F7&border=2F81F7"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mindia Arabuli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mind1a&theme=midnight-purple&dates=2F81F7&excludeDaysLabel=2F81F7&sideNums=2F81F7&sideLabels=2F81F7&currStreakLabel=2F81F7&currStreakNum=2F81F7&fire=2F81F7&ring=2F81F7&stroke=2F81F7&border=2F81F7"/>
     </a> 
 </p>
 
