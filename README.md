@@ -19,10 +19,12 @@
 ## 📊 My Github Stats
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindia&theme=dark&show_icons=true)
+    <a href="https://github.com/mind1a/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mindia Arabuli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mind1a&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
-  <!-- <br/>
-    <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TridibD004&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridibD004&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
-  <br/> -->
+  <br/>
+    <a href="https://github.com/mind1a/github-readme-stats"><img alt="Mindia Arabuli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mind1a&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mind1a/github-readme-stats"><img alt="Mindia Arabuli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mind1a&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
