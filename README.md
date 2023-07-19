@@ -9,11 +9,11 @@
 <div align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&width=435&lines=Front-End+Developer+%40Unilab" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&width=435&lines=Front-End+Developer+%40Unilab&center=true" alt="Typing SVG" /></a>
   
   <br/>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&width=435&lines=I+am+a+web+developer+from+Georgia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&width=435&lines=I+am+a+web+developer+from+Georgia&center=true" alt="Typing SVG" /></a>
   
 </a>
 
