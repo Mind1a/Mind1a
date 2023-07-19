@@ -26,5 +26,4 @@
 
   <br/>
     <a href="https://github.com/mind1a/github-readme-stats"><img alt="Mindia Arabuli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mind1a&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mind1a/github-readme-stats"><img alt="Mindia Arabuli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mind1a&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
   <br/>
