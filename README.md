@@ -4,7 +4,7 @@
   <img src="./assets/coding.gif">
 </p>
 
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm M Arabuli <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm M Arabuli <img src="./assets/acid-cat.gif" width="50"></h1>
 
 <div align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,7 +16,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 📊 My Github Stats
+<h2 align="center"><img src="./assets/1kLR.gif" width="25px" alt="cat">My Github Stats</h2>
 
 <p align="center">
     <a href="https://github.com/mind1a/github-readme-streak-stats">
