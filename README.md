@@ -4,7 +4,7 @@
   <img src="./assets/coding.gif" width="43.8%">
 </p>
 
-<h1 align="center" border-bottom="0px !important";>Hello! I'm Mindia Arabuli <img src="./assets/acid-cat.gif" width="50"></h1>
+<h1 align="center" style="border-bottom: none;";>Hello! I'm Mindia Arabuli <img src="./assets/acid-cat.gif" width="50"></h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
