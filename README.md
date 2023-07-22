@@ -4,7 +4,7 @@
   <img src="./assets/coding.gif">
 </p>
 
-<h1 align="center">Hi! I'm Mindia Arabuli <img src="./assets/acid-cat.gif" width="50"></h1>
+<h1 align="center">Hello! I'm Mindia Arabuli <img src="./assets/acid-cat.gif" width="50"></h1>
 
 <div align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
