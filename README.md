@@ -17,6 +17,10 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<!-- <h1 align="center"> My Github Stats <img src="./assets/1kLR.gif" width="50"></h1> -->
+<p align="center">
+    <a href="https://github.com/mind1a/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mindia Arabuli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mind1a&theme=midnight-purple&dates=2F81F7&excludeDaysLabel=2F81F7&sideNums=2F81F7&sideLabels=2F81F7&currStreakLabel=2F81F7&currStreakNum=2F81F7&fire=2F81F7&ring=2F81F7&stroke=2F81F7&border=2F81F7"/>
+    </a> 
+</p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
